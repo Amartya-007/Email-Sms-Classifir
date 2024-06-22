@@ -7,7 +7,6 @@
 - [Dataset](#dataset)
 - [Model](#model)
 - [Results](#results)
-- [Contributing](#contributing)
 - [Acknowledgements](#acknowledgements)
 
 ## Overview
