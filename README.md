@@ -17,7 +17,7 @@ To get a local copy up and running, follow these steps:
 
 1. **Clone the repository**
    ```
-   git clone https://github.com/Amartya-007/Amartya-007---Email-Sms-Classifir.git
+   git clone https://github.com/Amartya-007/Email-Sms-Classifir.git
    cd Amartya-007---Email-Sms-Classifir
    ```
 Create and activate a virtual environment (optional but recommended)
