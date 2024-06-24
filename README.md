@@ -20,19 +20,19 @@ To get a local copy up and running, follow these steps:
    git clone https://github.com/Amartya-007/Email-Sms-Classifir.git
    cd Email-Sms-Classifir
    ```
-Create and activate a virtual environment (optional but recommended)
-```
-python -m venv venv
-source venv/bin/activate
-```
-On Windows, use 
-```
-venv\Scripts\activate
-```
-Install the required packages
-```
-pip install -r requirements.txt
-```
+2. **Create and activate a virtual environment (optional but recommended)**
+   ```
+   python -m venv venv
+   source venv/bin/activate
+   ```
+   On Windows, use 
+   ```
+   venv\Scripts\activate
+   ```
+3. **Install the required packages**
+   ```
+   pip install -r requirements.txt
+   ```
 ## Usage
 1. **Run the Jupyter notebook**
    - Open `email_spam_classifier.ipynb` in Jupyter Notebook or Jupyter Lab to see the preprocessing, training, and evaluation steps.
